@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"on",
+				"onRouteChange"
+			],
+			[
+				"filt",
+				"filteredRobots"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"card",
+				"cardComponent"
+			],
+			[
+				"Card",
+				"CardList"
+			],
+			[
+				"border-",
+				"border-collapse\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				" install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/caleb/Desktop/smart-brain-api/package-lock.json",
+		"/C/Users/caleb/Desktop/smart-brain-api/package.json",
+		"/C/Users/caleb/Desktop/smart-brain-api/server.js",
+		"/C/Users/caleb/Desktop/smart-brain-api/node_modules/script.js",
+		"/C/Users/caleb/Desktop/awesome-node/santa.txt",
+		"/C/Users/caleb/Desktop/awesome-node/script.js",
+		"/C/Users/caleb/Desktop/awesome-node/hello.txt",
+		"/C/Users/caleb/Desktop/node/public/index.html",
+		"/C/Users/caleb/Desktop/node/server.js",
+		"/C/Users/caleb/Desktop/node/package.json",
+		"/C/Users/caleb/Desktop/node/script.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/Components/Register/Register.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/Components/Navigation/Navigation.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/Components/FaceRecognition/FaceRecognition.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/Components/Signin/Signin.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/App.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/Components/FaceRecognition/FaceRecognition.css",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/Components/ImageLinkForm/ImageLinkForm.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/Components/ImageLinkForm/ImageLinkForm.css",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/index.css",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/App.css",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/Components/Rank/Rank.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/Components/Logo/Logo.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/Components/Logo/Logo.css",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/index.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/package.json",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/components/ImageLinkForm/ImageLinkForm.css",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/components/ImageLinkForm/ImageLinkForm.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/components/Logo/Logo.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/components/Logo/brain.png.png",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/components/Navigation/Navigation.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/components/Logo/Logo.css",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/src/App.test.js",
+		"/C/Users/caleb/Desktop/facerecognitionbrain/node_modules/@babel/helper-module-imports/lib/import-builder.js",
+		"/C/Users/caleb/Downloads/App.js",
+		"/C/Users/caleb/Downloads/exerciseAsyncAwait.js",
+		"/C/Users/caleb/Downloads/exerciseAsyncAwait-SOLUTIONS.js",
+		"/C/Users/caleb/Downloads/exercisePromises-SOLUTIONS.js",
+		"/C/Users/caleb/Downloads/exercisePromises.js",
+		"/C/Users/caleb/Desktop/Web dev coding work/new.js",
+		"/C/Users/caleb/Desktop/Web dev coding work/register.html",
+		"/C/Users/caleb/Desktop/RobofriendsApp/package.json",
+		"/C/Users/caleb/Desktop/RobofriendsApp/README.md",
+		"/C/Users/caleb/Desktop/robofriends3/.git/COMMIT_EDITMSG",
+		"/C/Users/caleb/Desktop/robofriends3/src/Scroll.js",
+		"/C/Users/caleb/Desktop/robofriends3/src/components/ErrorBoundry.js",
+		"/C/Users/caleb/Desktop/robofriends3/src/components/ErrorBoundry",
+		"/C/Users/caleb/Desktop/robofriends3/src/index.js",
+		"/C/Users/caleb/Desktop/robofriends3/package.json",
+		"/C/Users/caleb/Desktop/robofriends3/src/containers/App.js",
+		"/C/Users/caleb/Desktop/robofriends3/src/Card.js",
+		"/C/Users/caleb/Desktop/robofriends3/src/CardList.js",
+		"/C/Users/caleb/Desktop/robofriends3/src/SearchBox.js",
+		"/C/Users/caleb/Desktop/robofriends3/src/index.css",
+		"/C/Users/caleb/Downloads/sega-logo-font-cufonfonts-webfont/style.css",
+		"/C/Users/caleb/Desktop/robofriends3/src/App.css",
+		"/C/Users/caleb/Desktop/robofriends3/src/SEGA.woff",
+		"/C/Users/caleb/Downloads/robots.js",
+		"/C/Users/caleb/Desktop/robofriends3/src/robots.js",
+		"/C/Users/caleb/Desktop/robofriends3/src/Hello.js",
+		"/C/Users/caleb/Desktop/robofriends3/src/Hello.css",
+		"/C/Users/caleb/Desktop/newreact/package.json",
+		"/C/Users/caleb/Desktop/robofriends3/src/App.js",
+		"/C/Users/caleb/Desktop/Sublime Text 3/index.html",
+		"/C/Users/caleb/Downloads/exercise5.js",
+		"/C/Users/caleb/Downloads/exercise5-SOLUTIONS-1.js",
+		"/C/Users/caleb/Desktop/style.css",
+		"/C/Users/caleb/Downloads/exercise4.js",
+		"/C/Users/caleb/Downloads/exercise4-SOLUTIONS.js",
+		"/C/Users/caleb/Downloads/exercise2.js",
+		"/C/Users/caleb/Downloads/exercise2-SOLUTIONS.js",
+		"/C/Users/caleb/Desktop/background generator/script.js",
+		"/C/Users/caleb/Desktop/background generator/style.css",
+		"/C/Users/caleb/Desktop/background generator/index.html",
+		"/C/Users/caleb/Downloads/script (1).js",
+		"/C/Users/caleb/Downloads/style (4).css",
+		"/C/Users/caleb/Downloads/script.js",
+		"/C/Users/caleb/Downloads/style (3).css",
+		"/C/Users/caleb/Desktop/facebook project/fb.css",
+		"/C/Users/caleb/Desktop/facebook project/fb.js",
+		"/C/Users/caleb/Downloads/exercise7-SOLUTIONS.js",
+		"/C/Users/caleb/Desktop/facebook.js",
+		"/C/Users/caleb/Desktop/key car/index.html",
+		"/C/Users/caleb/Desktop/key car/script.js",
+		"/C/Users/caleb/Downloads/exercise6-SOLUTIONS.js",
+		"/C/Users/caleb/Downloads/exercise5-SOLUTIONS (1).js",
+		"/C/Users/caleb/Desktop/brit/style.css",
+		"/C/Users/caleb/Desktop/bootstrap4work/startup.css",
+		"/C/Users/caleb/Desktop/bootstrap4work/startup.html",
+		"/C/Users/caleb/Desktop/bootstrap4work/bootstrap-4.3.1-dist/css/bootstrap.css",
+		"/C/Users/caleb/Desktop/bootstrap4work/index.html",
+		"/C/Users/caleb/Downloads/index.html",
+		"/C/Users/caleb/Downloads/style.css",
+		"/C/Users/caleb/Downloads/style (1).css",
+		"/C/Users/caleb/Downloads/index (1).html",
+		"/C/Users/caleb/Desktop/coding work/advancedcssstyle.css",
+		"/C/Users/caleb/Desktop/advancedcss.html",
+		"/C/Users/caleb/Desktop/General.html",
+		"/C/Users/caleb/Desktop/traders.html",
+		"/C/Users/caleb/Desktop/Miners-AlgoTraders-IndicatorCreators.html",
+		"/C/Users/caleb/Desktop/newsoutlets.html",
+		"/C/Users/caleb/Desktop/bots.html",
+		"/C/Users/caleb/Desktop/index.html",
+		"/C/Users/caleb/Desktop/register.html",
+		"/C/Users/caleb/Desktop/Sublime Text 3/hello.html",
+		"/C/Users/caleb/Desktop/hello.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
